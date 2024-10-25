@@ -8,11 +8,19 @@ I am a passionate developer specializing in backend development. Here’s a litt
 
 ### My Skills:
 - Java, Spring Boot, Hibernate
-- MySQL,PostgreSQL
+- MySQL, PostgreSQL
 - Docker
 - Data Structures and Algorithms
 - OOP
 - Computer Networks
+
+## Problem Solving
+![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode-200_problems_solved-orange)
+![Codeforces Problems Solved](https://img.shields.io/badge/Codeforces-650%2B_problems_solved-blue)
+![CodeChef Problems Solved](https://img.shields.io/badge/CodeChef-30%2B_problems_solved-brightgreen)
+
+
+
 
 # My GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -21,3 +29,4 @@ I am a passionate developer specializing in backend development. Here’s a litt
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib522" />
 </a>
+

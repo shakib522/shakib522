@@ -23,10 +23,10 @@ I am a passionate developer specializing in backend development. Here’s a litt
 
 
 # My GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/shakib522/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shakib522" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/shakib522/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib522" />
 </a>
 
